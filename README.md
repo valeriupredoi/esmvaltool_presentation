@@ -46,7 +46,7 @@ scientific community, and included after a scientific and technical review proce
 - **2** Main controls: [recipes](https://docs.esmvaltool.org/en/latest/recipes/index.html), [configuration files](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/quickstart/configure.html)
 - **3** Input data (fuel): various [input data](https://docs.esmvaltool.org/en/latest/input.html) types: CMIP, OBS, CORDEX
 - **4** [Documentation](https://docs.esmvaltool.org/en/latest/)
-- **5** Creating a diagnostic [diagnostic](https://docs.esmvaltool.org/en/latest/develop/index.html) (route to follow)
+- **5** Creating a [diagnostic](https://docs.esmvaltool.org/en/latest/develop/index.html) (route to follow)
 - **6** [Provenance](https://docs.esmvaltool.org/projects/ESMValCore/en/latest/interfaces.html#provenance) (title and registration)
 - **7** [Continuous testing](https://github.com/ESMValGroup/ESMValTool/actions) (dashboard monitoring)
 
