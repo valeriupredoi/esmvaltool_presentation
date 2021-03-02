@@ -40,6 +40,13 @@ scientific community, and included after a scientific and technical review proce
 
 ![runschematic](https://github.com/valeriupredoi/esmvaltool_presentation/blob/main/images/esmvalPorsche.png)
 
+- D Developer (driver)
+- U User (passenger)
+- 1 [ESMValCore](https://docs.esmvaltool.org/projects/ESMValCore/en/latest/quickstart/index.html) - the preprocessing engine (car's engine)
+- 2 Main controls: [recipes](https://docs.esmvaltool.org/en/latest/recipes/index.html), [configuration files](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/quickstart/configure.html)
+- 3 Input data (fuel): various [input data](https://docs.esmvaltool.org/en/latest/input.html) types: CMIP, OBS, CORDEX
+- 4 [Documentation](https://docs.esmvaltool.org/en/latest/)
+- 5 Creating a diagnostic [diagnostic](https://docs.esmvaltool.org/en/latest/develop/index.html) - route to follow
 
 # Input data
 
