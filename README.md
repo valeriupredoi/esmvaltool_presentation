@@ -12,11 +12,29 @@
 
 ![esmvaltoollogo](https://github.com/valeriupredoi/esmvaltool_presentation/blob/main/images/ESMValTool-logo.png)
 
-# Web Resources
-
 - [**Documentation**](https://docs.esmvaltool.org/en/latest/)
 - [**ESMValTool Website**](https://www.esmvaltool.org/)
 - [**ESMValGroup Project on GitHub**](https://github.com/ESMValGroup)
+- [**Gallery**](https://docs.esmvaltool.org/en/latest/gallery.html)
+
+# Introduction
+
+ESMValTool is a community-developed climate model diagnostics and evaluation software package, driven
+both by computational performance and scientific accuracy and reproducibility. ESMValTool is open to both
+users and developers, encouraging open exchange of diagnostic source code and evaluation results from the
+Coupled Model Intercomparison Project [CMIP](https://www.wcrp-climate.org/wgcm-cmip) ensemble. For a
+comprehensive introduction to ESMValTool please visit our
+[documentation](https://docs.esmvaltool.org/en/latest/introduction.html) page.
+
+# Running esmvaltool
+
+Diagnostics from ESMValTool are run using [recipe](https://docs.esmvaltool.org/en/latest/recipes/index.html)
+files that contain pointers to the requested data types, directives for the preprocessing steps that data
+will be subject to, and directives for the actual diagnostics that will be run with the now preprocessed data.
+Data preprocessing is done via the [ESMValCore](https://docs.esmvaltool.org/projects/ESMValCore/en/latest/quickstart/index.html) package, a pure Python, highly-optimized scientific library, developed by the ESMValTool core developers,
+and that performs a number of common analysis tasks
+such as regridding, masking, levels extraction etc. [Diagnostics](https://docs.esmvaltool.org/en/latest/develop/diagnostic.html) are written in a variety of programming languages (Python, NCL, R, julia) and are developed by the wider
+scientific community, and included after a scientific and technical review process.
 
 # Input data
 
