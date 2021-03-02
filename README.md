@@ -10,12 +10,13 @@
 [![Docker Build Status](https://img.shields.io/docker/cloud/build/esmvalgroup/esmvaltool.svg)](https://hub.docker.com/r/esmvalgroup/esmvaltool/)
 [![Anaconda-Server Badge](https://anaconda.org/esmvalgroup/esmvaltool/badges/installer/conda.svg)](https://conda.anaconda.org/esmvalgroup)
 
+![esmvaltoollogo](https://github.com/valeriupredoi/esmvaltool_presentation/blob/main/images/ESMValTool-logo.png)
+
 # Web Resources
+
 - [**Documentation**](https://docs.esmvaltool.org/en/latest/)
 - [**ESMValTool Website**](https://www.esmvaltool.org/)
 - [**ESMValGroup Project on GitHub**](https://github.com/ESMValGroup)
-
-![esmvaltoollogo](https://github.com/valeriupredoi/esmvaltool_presentation/blob/main/images/ESMValTool-logo.png)
 
 # Input data
 
