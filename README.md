@@ -36,6 +36,11 @@ and that performs a number of common analysis tasks
 such as regridding, masking, levels extraction etc. [Diagnostics](https://docs.esmvaltool.org/en/latest/develop/diagnostic.html) are written in a variety of programming languages (Python, NCL, R, julia) and are developed by the wider
 scientific community, and included after a scientific and technical review process.
 
+# Run schematic
+
+![runschematic](https://github.com/valeriupredoi/esmvaltool_presentation/blob/main/images/esmvalPorsche.png)
+
+
 # Input data
 
 ESMValTool can run with the following types of data as input:
